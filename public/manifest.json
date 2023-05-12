@@ -1,0 +1,27 @@
+{
+  "short_name": "mnitmeteor",
+  "name": "mnitmeteor",
+  "description": "The only community portal of MNIT.",
+  "icons": [
+    {
+      "src": "./favicon/logo144.svg",
+      "sizes": "144x144",
+      "type": "image/svg",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon/logo192.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./favicon/logo512.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
